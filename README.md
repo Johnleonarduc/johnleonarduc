@@ -14,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-[![My GitHub stats](https://github-readme-stats-nine-sand-22.vercel.app/api/top-langs?username=johnleonarduc&show_icons=true&layout=compact&hide=ruby)](https://github.com/johnelonarduc)
+[![My GitHub stats](https://github-readme-stats-nine-sand-22.vercel.app/api/top-langs?username=johnleonarduc&show_icons=true&layout=compact&hide=ruby&theme=dracula)](https://github.com/johnelonarduc)
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
