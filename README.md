@@ -60,6 +60,6 @@
 ### Some Project Samples
 * [Acvep Website (Frontend)](https://acvep.com) | Angular
 * [Trivia Game (Full Stack -practice)](https://triviaprj.netlify.app/) | React, Python-Flask, PostgreSQL, REST API
-* [Fyyur (Full Stack -practice)](https://triviaprj.netlify.app/) | Python-Flask, PostgreSQL (Server Rendered)
+* [Fyyur (Full Stack -practice)](https://fyyur-wrmd.onrender.com) | Python-Flask, PostgreSQL (Server Rendered)
 
 
