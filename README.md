@@ -58,13 +58,14 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ### Some Project Samples
-* [Acvep Website (Frontend)](https://acvep.com) | Angular | UI (Private) - 2023
-* [Trivia Game (Full Stack -practice)](https://triviaprj.netlify.app/) | React, Python-Flask, PostgreSQL, REST API | No UI - 2022
-* [Fyyur (Full Stack -practice)](https://fyyur-wrmd.onrender.com) | Python-Flask, PostgreSQL (Server Rendered) | No UI - 2022
-* [Samtevas.com (Coming Soon Page)](https://samtevas.com) | React | [UI](https://www.figma.com/file/nqkIZZxHzYgtKb8SnbVeLM/Samtevas-Project?type=design&node-id=40-314&mode=design&t=cBqPAHvdh3oYad8s-0) - 2023
-* [Cypress Frontend Interview Practical Task(Frontend)](https://minimalistroom.netlify.app/) | Angular, TypeScript, Netlify | [UI](https://www.figma.com/file/4xv1J0UO79SH4SEUuKNwZl/Frontend-Practical-Task?type=design&node-id=337-7&mode=design&t=6ZmeM4W2wIJhNS6e-0) - 2023
-* [Memory Game (Frontend -practice) ](https://johnleonarduc.github.io/memory-game/) | Javascript | No UI - 2018
-* [Pixel Art Maker (Frontend -practice)](https://johnleonarduc.github.io/Pixel-Art-Maker/) | JQuery | NoUI -2018
+* [Samtevas.com (Coming Soon Page)](https://samtevas.com) | React | [UI](https://www.figma.com/file/nqkIZZxHzYgtKb8SnbVeLM/Samtevas-Project?type=design&node-id=40-314&mode=design&t=cBqPAHvdh3oYad8s-0) | (Private Repo) - 2023
+* [Acvep Website (Frontend)](https://acvep.com) | Angular | UI (Private) | (Private Repo) - 2023
+* [Cypress Frontend Interview Practical Task(Frontend)](https://minimalistroom.netlify.app/) | Angular, TypeScript, Netlify | [UI](https://www.figma.com/file/4xv1J0UO79SH4SEUuKNwZl/Frontend-Practical-Task?type=design&node-id=337-7&mode=design&t=6ZmeM4W2wIJhNS6e-0) | [Public Repo](https://github.com/Johnleonarduc/Minimalist-Room) - 2023
+* [Trivia Game (Full Stack -practice)](https://triviaprj.netlify.app/) | React, Python, Flask, SQLAlchemy, PostgreSQL, REST API | No UI | Public Repo [Frontend](https://github.com/Johnleonarduc/trivia_frontend), [Backend](https://github.com/Johnleonarduc/trivia-backend) - 2022
+* [Fyyur (Full Stack -practice)](https://fyyur-wrmd.onrender.com) | Python-Flask, PostgreSQL (Server Rendered) | No UI | [Public Repo](https://github.com/Johnleonarduc/fyyur) - 2022
+* [Portfolio (Frontend - Practice)](https://github.com/Johnleonarduc/front-end-web-portfolio) | HTML, CSS, JavaScript | No UI | [Public Repo](https://github.com/Johnleonarduc/front-end-web-portfolio) - 2019
+* [Memory Game (Frontend -practice) ](https://johnleonarduc.github.io/memory-game/) | HTML, CSS, Javascript | No UI | [Public Repo](https://github.com/Johnleonarduc/memory-game) - 2018
+* [Pixel Art Maker (Frontend -practice)](https://johnleonarduc.github.io/Pixel-Art-Maker/) | HTML, CSS, JQuery | No UI | [Public Repo](https://github.com/Johnleonarduc/Pixel-Art-Maker) - 2018
 
 
 
