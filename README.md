@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to my Repository.
  
 - 🔭 I’m currently working on a private school management application and a POS software
-- 🌱 I’m currently learning Redux, Ionic, Figma, and Virtual Reality
 - 👯 I’m looking to collaborate on impact-driven projects
 - 📫 Reach me at: johnleonarduc@gmail.com
   
